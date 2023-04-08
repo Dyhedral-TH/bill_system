@@ -1,0 +1,20 @@
+{
+    "Engine_oil": 
+        {
+        "Ammasco":{"2":["id_a1",30000,"quantity_a1"],
+                        "5":["id_a2",70000,"quantity_a2"]
+                        },
+        "Total":{"3":["id_t1",8500,"quantity_t1"],
+                      "6":["id_t2",10000,"quantity_t2"]
+                      }
+        },
+    "Brake_oil":
+    {
+        "Superior":{"5":["id_s1",11000,"quantity_s1"],"litres_s2":["id_s2","price_s2","quantity_s2"]},
+        "Coalesce":{"10":["id_c1",20000,"quantity_c1"],"litres_c2":["id_c2","price_c2","quantity_c2"]}
+    },
+    "Machine_Tube":
+    {   "Bajaj":{"185*75":["id_B1",1000,"quantity_B1"],"litres_B2":["id_B2","price_B2","quantity_B2"]},
+        "Locin":{"200*85":["id_L1",1200,"quantity_L1"],"litres_L2":["id_L2","price_L2","quantity_L2"]}
+    }
+    }
